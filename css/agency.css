@@ -142,7 +142,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-size: 80%;
+  font-size: 93%;
   font-weight: 400;
   padding: 30px 0.4em;
   letter-spacing: 1px;
@@ -377,7 +377,7 @@ header.masthead .intro-text .intro-heading {
 .timeline:before {
   position: absolute;
   top: 0;
-  bottom: 0;
+  bottom: 45px;
   left: 40px;
   width: 4px;
   margin-left: -3.5px;
@@ -489,7 +489,7 @@ header.masthead .intro-text .intro-heading {
   }
   .timeline > li {
     min-height: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 40px;
   }
   .timeline > li .timeline-panel {
     float: left;
